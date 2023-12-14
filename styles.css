@@ -1,0 +1,36 @@
+input[type=text] {
+  border-radius: 12px;
+  width: 50%;
+  padding: 10px 10px;
+  margin: 4px 0;
+}
+
+section button{
+  padding:8px 15px;
+  background-color: lightgrey;
+  color:black;
+ border-radius: 12px;
+ margin: 4px 0;
+}
+
+#slide_start_button, #slide_stop_button{
+   display: inline-block;
+   margin-center: 5px;
+}
+
+h2 {font-family: arial}
+
+label {font-family: arial}
+
+#AdSe {
+background: #4db8ff;
+color: white;
+font-family: arial
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
